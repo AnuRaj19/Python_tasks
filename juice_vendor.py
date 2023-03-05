@@ -71,4 +71,4 @@ def get_change(currency_format,remaining_amt):
 
 call_func=process_calculation(flavour,qty,amt,stock_data,currency_format)
 
-print("added")
+print("added1")
