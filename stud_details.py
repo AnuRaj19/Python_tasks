@@ -56,4 +56,6 @@ status=int(input("Enter 1 for student detail\nEnter 2 for Teacher detail\nEnter 
 check_status(status)
 
 
+
 print("test dummy1")
+
