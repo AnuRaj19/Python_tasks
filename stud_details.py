@@ -58,4 +58,6 @@ check_status(status)
 
 
 print("test dummy1")
+print("test ammend1")
+print("ammend2")
 
